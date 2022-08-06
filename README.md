@@ -36,4 +36,4 @@ To do / Doing / Done을 구분하여 LIst를 작성할 수 있는 간단한 Appl
 \
 **Do you want to go to [📄 Npm Page](https://www.npmjs.com/package/react-hook-form)❓**
 
-**Do you want to go [🧩 Study More about `react-helmet`](https://tmdfyd0807.tistory.com/261)**
+**Do you want to go [🧩 Study More about `react-hook-form`](https://tmdfyd0807.tistory.com/261)**
